@@ -6,3 +6,9 @@ int new_function(int variable) {
 	return new_variable;
 }
 
+int new_feature_2(int val) {
+	int new_val;
+	new_val = val + 1;
+	return new_val;
+}
+
